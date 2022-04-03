@@ -10,8 +10,8 @@ The purpose of the analysis was to help Maria analyze student funding and studen
 
 - As seen below, since the scores of the students in the 9th grade at Thomas High School are replaced, the total number of students has changed. In addition, this affects the passing percentage for math, reading, and the overall percentage of students passing. All these numbers are lower with the replacement of the 9th grader’s scores at Thomas High School. The numbers unaffected are the total budget and the average math and reading score. The total budget is not affected by the 9th graders so there are no changes. The average scores are a mean of all the scores from all students from all schools. This is a very large number and replacing only the 9th graders at Thomas High School does not affect the mean greatly. 
 
-analysis/THS_district_summary.png
-analysis/THS_district_summary.png
+!(/analysis/THS_district_summary.png)
+!(/analysis/THS_district_summary.png)
 
 - The school summary data is largely unaffected, except for the scores and passing percentage for Thomas High School. All the student data for the other schools are intact so their results are the same. However Thomas High School, since there is some data change, all the numbers have gone down very slightly, except the average reading score, which has gone up. 
 
